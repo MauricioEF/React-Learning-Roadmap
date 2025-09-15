@@ -1,0 +1,28 @@
+.container{
+    width:50%;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center;
+    margin:auto;
+    gap:50px;
+}
+.toggleButton {
+    width:100%;
+    padding:2rem;
+    font-size:2rem;
+}
+.lightbulbIcon{
+    font-size:10rem;
+}
+
+.descriptionTitle{
+    text-align:center;
+}
+
+.descriptionBody {
+    text-align:justify;
+    padding:2rem;
+    font-size:1.25rem;
+}
