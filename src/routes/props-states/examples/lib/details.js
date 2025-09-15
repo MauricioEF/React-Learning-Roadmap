@@ -1,6 +1,6 @@
 const exampleDetails = {
     'example-1': {
-        title:"Simple state",
+        title:"Toggle Switch",
         description:()=>import('./example-1/Example1Description'),
         component:()=>import('./example-1')
     },
