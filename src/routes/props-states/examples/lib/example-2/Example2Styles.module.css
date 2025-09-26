@@ -1,0 +1,32 @@
+.states {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+    gap: 20px;
+    width: 100px;
+    height: 50px;
+    justify-content: center;
+
+}
+
+.example {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.titulos{
+    color: #62e40c;
+    
+}
+
+.stateText{
+    color: #00fff2;
+}
