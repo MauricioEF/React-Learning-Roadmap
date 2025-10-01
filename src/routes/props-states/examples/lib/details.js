@@ -8,6 +8,11 @@ const exampleDetails = {
         title:'Props usage',
         description:()=>import('./example-2/Example2Description'),
         component:()=>import('./example-2')
+    },
+    'example-3':{
+        title : 'Form Managment',
+        description: ()=> import('./example-3/ExampleDescription'),
+        component:()=>import('./example-3/Example3')
     }
 }
 
